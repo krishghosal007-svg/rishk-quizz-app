@@ -91,16 +91,27 @@ RISHK-QUIZ/
 5. Score is calculated instantly
 6. Results are stored in the **marksheet system**
    
-https://github.com/yourusername/repository-name/assets/demo.mp4
 ---
 
 ## 📸 Screens Included
 
 * Authentication Page
+<img width="1919" height="908" alt="Screenshot 2026-03-05 142722" src="https://github.com/user-attachments/assets/8342842d-6581-4943-aeda-d5285969a043" />
+
 * Dashboard
+<img width="1728" height="671" alt="Screenshot 2026-03-05 142843" src="https://github.com/user-attachments/assets/fc2749f9-6204-42a5-9a92-f65e75fecf24" />
+<img width="1919" height="908" alt="Screenshot 2026-03-05 142932" src="https://github.com/user-attachments/assets/59a579ac-f9b4-4cdc-8272-9859195339f3" />
+
 * Category Selection
+<img width="1919" height="905" alt="Screenshot 2026-03-05 142948" src="https://github.com/user-attachments/assets/ee9f3ac0-0eb1-438b-8f3f-242bb90da7e7" />
+
 * Quiz Interface
+<img width="1919" height="904" alt="Screenshot 2026-03-05 143005" src="https://github.com/user-attachments/assets/b8a83d90-e2bd-4f66-bd55-6585cdebd6dc" />
+<img width="1897" height="907" alt="Screenshot 2026-03-05 143027" src="https://github.com/user-attachments/assets/18f0c7c2-c532-404f-bf8d-256ca9a98799" />
+
 * Result Screen
+
+<img width="1914" height="906" alt="Screenshot 2026-03-05 143051" src="https://github.com/user-attachments/assets/70e4c68f-e654-4102-b849-839fcdca8311" />
 
 ---
 
