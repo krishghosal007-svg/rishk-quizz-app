@@ -99,7 +99,6 @@ RISHK-QUIZ/
 <img width="1919" height="908" alt="Screenshot 2026-03-05 142722" src="https://github.com/user-attachments/assets/8342842d-6581-4943-aeda-d5285969a043" />
 
 * Dashboard
-<img width="1728" height="671" alt="Screenshot 2026-03-05 142843" src="https://github.com/user-attachments/assets/fc2749f9-6204-42a5-9a92-f65e75fecf24" />
 <img width="1919" height="908" alt="Screenshot 2026-03-05 142932" src="https://github.com/user-attachments/assets/59a579ac-f9b4-4cdc-8272-9859195339f3" />
 
 * Category Selection
